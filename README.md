@@ -28,7 +28,7 @@
 [ 🔗 ] https://github.com/araab-zack
 
 [ 🔗 ] https://github.com/naru12348
-[ 🔗 ] https://replit.com/@gipodo1498/BOT-QR-CODE?V=1
+[ 🔗 ] https://replit.com/@gipodo1498/BOT-QR-CODE?V=1#main.sh
 ### `▢ مجموعات الدعم (المتوفرة)`
 ### `▢ Grupos de apoyo (Disponibles)`
 
