@@ -28,7 +28,12 @@
 [ 🔗 ] https://github.com/araab-zack
 
 [ 🔗 ] https://github.com/naru12348
+
 [ 🔗 ] https://replit.com/@gipodo1498/BOT-QR-CODE?V=1#main.sh
+
+[ 🔗 ]  
+https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBrunoSobrino%2FTheMystic-Bot-MD
+
 ### `▢ مجموعات الدعم (المتوفرة)`
 ### `▢ Grupos de apoyo (Disponibles)`
 
