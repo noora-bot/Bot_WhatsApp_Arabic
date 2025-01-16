@@ -32,7 +32,7 @@
 [ 🔗 ] https://replit.com/@gipodo1498/BOT-QR-CODE?V=1#main.sh
 
 [ 🔗 ]  
-https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBrunoSobrino%2FTheMystic-Bot-MD
+https://dashboard.render.com/blueprint/new?repo=https://github.com/noora-bot/Bot_WhatsApp_Arabic
 
 ### `▢ مجموعات الدعم (المتوفرة)`
 ### `▢ Grupos de apoyo (Disponibles)`
